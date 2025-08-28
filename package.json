@@ -306,7 +306,7 @@
     "prettier": "3.6.2",
     "stylelint": "^13.13.1",
     "stylelint-a11y": "^1.2.3",
-    "stylelint-config-standard": "^22.0.0",
+    "stylelint-config-standard": "^39.0.0",
     "supertest": "^7.1.4",
     "tailwindcss": "4.1.12",
     "ts-morph": "26.0.0",
