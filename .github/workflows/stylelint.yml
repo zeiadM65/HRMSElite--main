@@ -1,0 +1,3 @@
+name: stylelint
+on: [push, pull_request]
+jobs: { lint: { runs-on: ubuntu-latest, steps: [ {uses: actions/checkout@v4}, {run: npx stylelint '**/*.{css,scss}' --allow-empty-input} ] } }

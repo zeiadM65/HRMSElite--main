@@ -1,0 +1,14 @@
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Downloaded fonts
+public/fonts/*.woff2

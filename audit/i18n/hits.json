@@ -1,0 +1,6552 @@
+[
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 541,
+    "text": "جاري تحميل بيانات التحليلات..."
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 554,
+    "text": "لا توجد بيانات"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 555,
+    "text": "لم يتم العثور على بيانات التحليلات."
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 567,
+    "text": "التحليلات الذكية"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 568,
+    "text": "تحليل شامل لاستخدام النظام والأداء"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 576,
+    "text": "المقاييس المتقدمة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 583,
+    "text": "تصدير"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 592,
+    "text": "تحديث"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 601,
+    "text": "الفترة:"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 607,
+    "text": "اليوم"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 608,
+    "text": "الأسبوع"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 609,
+    "text": "الشهر"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 613,
+    "text": "الفئة:"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 619,
+    "text": "الكل"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 620,
+    "text": "الأداء"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 621,
+    "text": "الاستخدام"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 622,
+    "text": "الذكاء الاصطناعي"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 623,
+    "text": "المستخدمين"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 634,
+    "text": "الوقت الفعلي"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 644,
+    "text": "المقاييس في الوقت الفعلي"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 653,
+    "text": "المستخدمين النشطين"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 659,
+    "text": "الطلبات الحالية"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 665,
+    "text": "الاستخدام الأقصى"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 670,
+    "text": "د"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 671,
+    "text": "متوسط الجلسة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 683,
+    "text": "إحصائيات الاستخدام"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 692,
+    "text": "إجمالي الطلبات"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 698,
+    "text": "متوسط وقت الاستجابة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 704,
+    "text": "معدل النجاح"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 709,
+    "text": "الميزات الأكثر استخداماً"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 750,
+    "text": "أداء الذكاء الاصطناعي"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 759,
+    "text": "دقة النموذج"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 765,
+    "text": "جودة الاستجابة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 771,
+    "text": "رضا المستخدمين"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 777,
+    "text": "معدل التعلم"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 783,
+    "text": "مجالات التحسين"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 803,
+    "text": "الرؤى والتوصيات"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 837,
+    "text": "الثقة:"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 854,
+    "text": "التوصيات"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 874,
+    "text": "التأثير المتوقع:"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 878,
+    "text": "وقت التنفيذ:"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 882,
+    "text": "التكلفة:"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 886,
+    "text": "الفئة:"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 904,
+    "text": "تفاعلات المستخدمين"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 912,
+    "text": "د"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 913,
+    "text": "متوسط مدة الجلسة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 919,
+    "text": "النقرات لكل جلسة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 925,
+    "text": "معدل الكفاءة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 930,
+    "text": "أجهزة المستخدمين"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 964,
+    "text": "اتجاهات الأداء"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 973,
+    "text": "وقت الاستجابة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 979,
+    "text": "الدقة"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 985,
+    "text": "رضا المستخدمين"
+  },
+  {
+    "file": "client/src/components/ai/analytics.tsx",
+    "line": 991,
+    "text": "صحة النظام"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 614,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 640,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 643,
+    "text": "نشط"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 652,
+    "text": "مسح المحادثة"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 672,
+    "text": "ابحث في قاعدة المعرفة..."
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 691,
+    "text": "نتائج البحث في المعرفة"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 721,
+    "text": "استخدام"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 733,
+    "text": "الإجراءات السريعة"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 735,
+    "text": "إجراء"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 753,
+    "text": "استخدام"
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 796,
+    "text": "جاري الكتابة..."
+  },
+  {
+    "file": "client/src/components/ai/chatbot.tsx",
+    "line": 811,
+    "text": "اكتب رسالتك هنا..."
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 802,
+    "text": "التحليلات الذكية"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 803,
+    "text": "تحليل ذكي لسلوك المستخدمين وأداء النظام"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 811,
+    "text": "المقاييس المتقدمة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 818,
+    "text": "وضع التعلم"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 825,
+    "text": "المراقبة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 837,
+    "text": "تحليل"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 849,
+    "text": "مقاييس النظام"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 856,
+    "text": "المستخدمين النشطين"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 862,
+    "text": "الطلبات الحالية"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 866,
+    "text": "الاستخدام الأقصى"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 871,
+    "text": "د"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 872,
+    "text": "متوسط الجلسة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 885,
+    "text": "أداء الذكاء الاصطناعي"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 894,
+    "text": "دقة النموذج"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 900,
+    "text": "جودة الاستجابة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 906,
+    "text": "رضا المستخدمين"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 912,
+    "text": "معدل التعلم"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 918,
+    "text": "مجالات التحسين"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 939,
+    "text": "سلوك المستخدم"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 947,
+    "text": "د"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 948,
+    "text": "متوسط مدة الجلسة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 954,
+    "text": "النقرات لكل جلسة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 960,
+    "text": "معدل الكفاءة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 965,
+    "text": "الميزات المستخدمة"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 977,
+    "text": "أجهزة المستخدمين"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1014,
+    "text": "الاقتراحات الذكية"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1016,
+    "text": "اقتراح"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1052,
+    "text": "الثقة:"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1082,
+    "text": "إحصائيات التفاعل"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1084,
+    "text": "تفاعل"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1094,
+    "text": "النقرات"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1100,
+    "text": "المفاتيح"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1106,
+    "text": "الصفحات"
+  },
+  {
+    "file": "client/src/components/ai/smart-analytics.tsx",
+    "line": 1112,
+    "text": "المسارات"
+  },
+  {
+    "file": "client/src/components/ai-assistant.tsx",
+    "line": 209,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/components/ai-assistant.tsx",
+    "line": 233,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/components/ai-assistant.tsx",
+    "line": 261,
+    "text": "إجراءات سريعة:"
+  },
+  {
+    "file": "client/src/components/ai-assistant.tsx",
+    "line": 347,
+    "text": "اكتب رسالتك هنا..."
+  },
+  {
+    "file": "client/src/components/company-card.tsx",
+    "line": 21,
+    "text": "ساري"
+  },
+  {
+    "file": "client/src/components/company-card.tsx",
+    "line": 24,
+    "text": "قريب الانتهاء"
+  },
+  {
+    "file": "client/src/components/company-card.tsx",
+    "line": 73,
+    "text": "عدد العمال:"
+  },
+  {
+    "file": "client/src/components/company-card.tsx",
+    "line": 77,
+    "text": "التراخيص:"
+  },
+  {
+    "file": "client/src/components/company-card.tsx",
+    "line": 81,
+    "text": "حالة الملف:"
+  },
+  {
+    "file": "client/src/components/company-card.tsx",
+    "line": 90,
+    "text": "دخول إلى النظام"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 305,
+    "text": "عرض المستند"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 324,
+    "text": "تحميل"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 331,
+    "text": "الفئة"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 337,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 345,
+    "text": "تاريخ الرفع"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 354,
+    "text": "تم الرفع بواسطة"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 364,
+    "text": "الوصف"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 371,
+    "text": "العلامات"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 384,
+    "text": "إغلاق"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 388,
+    "text": "تعديل"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 392,
+    "text": "حذف"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 414,
+    "text": "اسم المستند *"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 419,
+    "text": "أدخل اسم المستند"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 426,
+    "text": "فئة المستند *"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 435,
+    "text": "اختر فئة المستند"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 453,
+    "text": "الملف *"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 466,
+    "text": "تم اختيار:"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 475,
+    "text": "الوصف"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 480,
+    "text": "أدخل وصف المستند (اختياري)"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 486,
+    "text": "العلامات"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 496,
+    "text": "أدخل العلامات مفصولة بفواصل"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 501,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 513,
+    "text": "نشط"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 514,
+    "text": "غير نشط"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 521,
+    "text": "التوقيع"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 528,
+    "text": "تم إضافة التوقيع"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 537,
+    "text": "تعديل"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 555,
+    "text": "حذف"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 563,
+    "text": "التوقيع"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 579,
+    "text": "إضافة توقيع"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 596,
+    "text": "توقيع المستند"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 597,
+    "text": "قم بالتوقيع على المستند"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 604,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/components/document-form.tsx",
+    "line": 610,
+    "text": "جاري الحفظ..."
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 257,
+    "text": "إضافة موظف جديد"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 262,
+    "text": "تحديث بيانات الموظف"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 280,
+    "text": "الاسم الأول *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 284,
+    "text": "أحمد"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 293,
+    "text": "الاسم الأخير *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 297,
+    "text": "محمد"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 306,
+    "text": "البريد الإلكتروني *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 320,
+    "text": "رقم الهاتف *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 336,
+    "text": "المنصب *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 342,
+    "text": "اختر المنصب"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 358,
+    "text": "القسم *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 364,
+    "text": "اختر القسم"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 380,
+    "text": "تاريخ التوظيف *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 393,
+    "text": "الراتب (دينار كويتي) *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 411,
+    "text": "رقم الهوية الوطنية *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 424,
+    "text": "تاريخ الميلاد *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 437,
+    "text": "رقم الطوارئ *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 450,
+    "text": "سنوات الخبرة *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 467,
+    "text": "العنوان *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 471,
+    "text": "الكويت، حولي، شارع..."
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 481,
+    "text": "المؤهل العلمي *"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 485,
+    "text": "بكالوريوس إدارة أعمال"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 502,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 512,
+    "text": "أرشفة"
+  },
+  {
+    "file": "client/src/components/employee-form.tsx",
+    "line": 524,
+    "text": "جاري الحفظ..."
+  },
+  {
+    "file": "client/src/components/header.tsx",
+    "line": 85,
+    "text": "موظف"
+  },
+  {
+    "file": "client/src/components/header.tsx",
+    "line": 151,
+    "text": "الإعدادات"
+  },
+  {
+    "file": "client/src/components/header.tsx",
+    "line": 155,
+    "text": "الملف الشخصي"
+  },
+  {
+    "file": "client/src/components/header.tsx",
+    "line": 160,
+    "text": "تسجيل الخروج"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 318,
+    "text": "طلب إجازة جديد"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 321,
+    "text": "قم بتعبئة تفاصيل طلب الإجازة. سيتم مراجعة الطلب من قبل المدير المباشر."
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 336,
+    "text": "نوع الإجازة *"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 347,
+    "text": "اختر نوع الإجازة"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 350,
+    "text": "إجازة سنوية"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 351,
+    "text": "إجازة مرضية"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 352,
+    "text": "إجازة طارئة"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 353,
+    "text": "إجازة أمومة"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 354,
+    "text": "إجازة أبوة"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 355,
+    "text": "إجازة دراسية"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 356,
+    "text": "إجازة بدون راتب"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 372,
+    "text": "رصيد"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 388,
+    "text": "المتاح:"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 390,
+    "text": "يوم"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 395,
+    "text": "المستخدم:"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 397,
+    "text": "يوم"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 411,
+    "text": "تاريخ البداية *"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 434,
+    "text": "تاريخ النهاية *"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 461,
+    "text": "عدد أيام الإجازة:"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 462,
+    "text": "يوم"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 465,
+    "text": "يوم"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 472,
+    "text": "سبب الإجازة *"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 475,
+    "text": "اذكر سبب طلب الإجازة بالتفصيل..."
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 516,
+    "text": "عدد أيام الإجازة المطلوبة ("
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 519,
+    "text": "يوم) يتجاوز الرصيد المتاح ("
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 521,
+    "text": "يوم)"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 533,
+    "text": "تحذير: هذا الطلب سيستنفذ"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 536,
+    "text": "% من رصيدك المتبقي"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 549,
+    "text": "توقيع الموظف"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 556,
+    "text": "تم إضافة التوقيع"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 565,
+    "text": "تعديل"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 574,
+    "text": "حذف"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 582,
+    "text": "توقيع الموظف"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 594,
+    "text": "إضافة توقيع الموظف"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 610,
+    "text": "جاري الإرسال..."
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 615,
+    "text": "إرسال الطلب"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 627,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 635,
+    "text": "• سيتم مراجعة الطلب من قبل المدير المباشر خلال 24-48 ساعة"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 636,
+    "text": "• يمكن تتبع حالة الطلب من صفحة طلبات الإجازات"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 637,
+    "text": "• الإجازات الطارئة تتطلب إشعار فوري للمدير"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 650,
+    "text": "توقيع الموظف"
+  },
+  {
+    "file": "client/src/components/leave-request-form.tsx",
+    "line": 651,
+    "text": "قم بالتوقيع على طلب الإجازة"
+  },
+  {
+    "file": "client/src/components/login-modal.tsx",
+    "line": 47,
+    "text": "تسجيل الدخول"
+  },
+  {
+    "file": "client/src/components/login-modal.tsx",
+    "line": 48,
+    "text": "الرجاء تسجيل الدخول للدخول إلى شركة:"
+  },
+  {
+    "file": "client/src/components/login-modal.tsx",
+    "line": 55,
+    "text": "اسم المستخدم"
+  },
+  {
+    "file": "client/src/components/login-modal.tsx",
+    "line": 66,
+    "text": "كلمة المرور"
+  },
+  {
+    "file": "client/src/components/login-modal.tsx",
+    "line": 84,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/components/optimized/OptimizedLicenseCard.tsx",
+    "line": 129,
+    "text": "ينتهي في:"
+  },
+  {
+    "file": "client/src/components/optimized/OptimizedLicenseCard.tsx",
+    "line": 159,
+    "text": "عرض"
+  },
+  {
+    "file": "client/src/components/optimized/OptimizedLicenseCard.tsx",
+    "line": 168,
+    "text": "تعديل"
+  },
+  {
+    "file": "client/src/components/optimized/OptimizedLicenseCard.tsx",
+    "line": 177,
+    "text": "مستندات"
+  },
+  {
+    "file": "client/src/components/optimized/OptimizedLicenseCard.tsx",
+    "line": 186,
+    "text": "حذف"
+  },
+  {
+    "file": "client/src/components/optimized/OptimizedLicenseCard.tsx",
+    "line": 312,
+    "text": "ينتهي هذا الترخيص قريباً"
+  },
+  {
+    "file": "client/src/components/optimized/OptimizedLicenseCard.tsx",
+    "line": 324,
+    "text": "هذا الترخيص منتهي الصلاحية"
+  },
+  {
+    "file": "client/src/components/shared/AppInitializer.tsx",
+    "line": 26,
+    "text": "جاري تحميل التطبيق..."
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 98,
+    "text": "حدث خطأ غير متوقع"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 99,
+    "text": "عذراً، حدث خطأ أثناء تحميل هذه الصفحة. يرجى المحاولة مرة أخرى."
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 107,
+    "text": "تفاصيل الخطأ (للأغراض التطويرية)"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 113,
+    "text": "الخطأ:"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 139,
+    "text": "تحديث الصفحة"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 145,
+    "text": "العودة للصفحة السابقة"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 151,
+    "text": "إذا استمرت المشكلة، يرجى التواصل مع فريق الدعم الفني"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 189,
+    "text": "حدث خطأ"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 194,
+    "text": "تحديث"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 207,
+    "text": "مشكلة في الاتصال"
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 208,
+    "text": "يبدو أن هناك مشكلة في الاتصال بالخادم. يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى."
+  },
+  {
+    "file": "client/src/components/shared/ErrorBoundary.tsx",
+    "line": 214,
+    "text": "إعادة المحاولة"
+  },
+  {
+    "file": "client/src/components/shared/ErrorMessage.tsx",
+    "line": 47,
+    "text": "إعادة المحاولة"
+  },
+  {
+    "file": "client/src/components/shared/ErrorMessage.tsx",
+    "line": 72,
+    "text": "خطأ في تحميل البيانات"
+  },
+  {
+    "file": "client/src/components/shared/ErrorMessage.tsx",
+    "line": 95,
+    "text": "خطأ في تحميل البيانات"
+  },
+  {
+    "file": "client/src/components/shared/ErrorMessage.tsx",
+    "line": 118,
+    "text": "خطأ في تحميل الجدول"
+  },
+  {
+    "file": "client/src/components/shared/LoadingFallback.tsx",
+    "line": 95,
+    "text": "جاري تحميل الصفحة..."
+  },
+  {
+    "file": "client/src/components/shared/LoadingSpinner.tsx",
+    "line": 72,
+    "text": "جاري تحميل البيانات..."
+  },
+  {
+    "file": "client/src/components/shared/PageErrorBoundary.tsx",
+    "line": 61,
+    "text": "خطأ في تحميل الصفحة"
+  },
+  {
+    "file": "client/src/components/shared/PageErrorBoundary.tsx",
+    "line": 78,
+    "text": "إعادة تحميل الصفحة"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 88,
+    "text": "لوحة التحكم"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 89,
+    "text": "لوحة التحكم الرئيسية لنظام إدارة الموارد البشرية"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 90,
+    "text": "لوحة التحكم, إحصائيات, تقارير, HRMS"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 95,
+    "text": "إدارة الشركات"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 96,
+    "text": "إدارة الشركات والمؤسسات في النظام"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 97,
+    "text": "شركات, مؤسسات, إدارة, HRMS"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 102,
+    "text": "إدارة الموظفين"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 103,
+    "text": "إدارة بيانات الموظفين والموارد البشرية"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 104,
+    "text": "موظفين, موارد بشرية, إدارة, HRMS"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 109,
+    "text": "إدارة المستندات"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 110,
+    "text": "إدارة المستندات والتراخيص والملفات"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 111,
+    "text": "مستندات, تراخيص, ملفات, HRMS"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 116,
+    "text": "التقارير"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 117,
+    "text": "تقارير شاملة عن الموارد البشرية والشركات"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 118,
+    "text": "تقارير, إحصائيات, تحليلات, HRMS"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 123,
+    "text": "الإعدادات"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 124,
+    "text": "إعدادات النظام والتكوين"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 125,
+    "text": "إعدادات, تكوين, النظام, HRMS"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 130,
+    "text": "تسجيل الدخول"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 131,
+    "text": "تسجيل الدخول إلى نظام إدارة الموارد البشرية"
+  },
+  {
+    "file": "client/src/components/shared/PageHelmet.tsx",
+    "line": 132,
+    "text": "تسجيل دخول, مصادقة, أمان, HRMS"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 67,
+    "text": "معلومات الدور الحالي"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 70,
+    "text": "عرض تفاصيل الدور والصلاحيات المتاحة"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 77,
+    "text": "معلومات الدور"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 80,
+    "text": "الدور:"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 84,
+    "text": "المستوى:"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 88,
+    "text": "الرمز:"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 95,
+    "text": "الوصف"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 103,
+    "text": "نوع الصلاحيات"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 105,
+    "text": "مسؤول عام"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 106,
+    "text": "مدير شركة"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 107,
+    "text": "موظف إداري"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 108,
+    "text": "مشرف"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 109,
+    "text": "عامل"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 111,
+    "text": "صلاحيات إدارية"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 112,
+    "text": "صلاحيات إدارية متوسطة"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 113,
+    "text": "صلاحيات مشرف"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 121,
+    "text": "الصلاحيات المتاحة"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 122,
+    "text": "جميع الصلاحيات الممنوحة للدور الحالي ("
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 123,
+    "text": "صلاحية)"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 153,
+    "text": "الصفحات المتاحة"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 154,
+    "text": "الصفحات التي يمكن الوصول إليها ("
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 155,
+    "text": "صفحة)"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 172,
+    "text": "صفحة متاحة"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 184,
+    "text": "اختبار الصلاحيات"
+  },
+  {
+    "file": "client/src/components/shared/PermissionTest.tsx",
+    "line": 185,
+    "text": "اختبار الوصول للصفحات المختلفة"
+  },
+  {
+    "file": "client/src/components/shared/ProtectedRoute.tsx",
+    "line": 84,
+    "text": "جاري التحقق من الصلاحيات..."
+  },
+  {
+    "file": "client/src/components/shared/ProtectedRoute.tsx",
+    "line": 104,
+    "text": "غير مصرح بالوصول"
+  },
+  {
+    "file": "client/src/components/shared/ProtectedRoute.tsx",
+    "line": 105,
+    "text": "ليس لديك صلاحية للوصول إلى هذه الصفحة"
+  },
+  {
+    "file": "client/src/components/shared/ProtectedRoute.tsx",
+    "line": 109,
+    "text": "العودة للوحة التحكم"
+  },
+  {
+    "file": "client/src/components/shared/ProtectedRoute.tsx",
+    "line": 124,
+    "text": "دور غير صحيح"
+  },
+  {
+    "file": "client/src/components/shared/ProtectedRoute.tsx",
+    "line": 125,
+    "text": "هذه الصفحة مخصصة لدور آخر"
+  },
+  {
+    "file": "client/src/components/shared/ProtectedRoute.tsx",
+    "line": 129,
+    "text": "العودة للوحة التحكم"
+  },
+  {
+    "file": "client/src/components/sidebar.tsx",
+    "line": 121,
+    "text": "القائمة الرئيسية"
+  },
+  {
+    "file": "client/src/components/sidebar.tsx",
+    "line": 153,
+    "text": "الإعدادات"
+  },
+  {
+    "file": "client/src/components/sidebar.tsx",
+    "line": 186,
+    "text": "الميزات المتقدمة"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 417,
+    "text": "التوقيع"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 426,
+    "text": "تم التوقيع في:"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 429,
+    "text": "اسم الملف:"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 451,
+    "text": "لون القلم:"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 466,
+    "text": "سمك القلم:"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 507,
+    "text": "التوقيع مطلوب لهذا المستند"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 522,
+    "text": "مسح"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 532,
+    "text": "رفع ملف"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 543,
+    "text": "تحميل"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 554,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/components/signature-capture.tsx",
+    "line": 570,
+    "text": "حفظ التوقيع"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 31,
+    "text": "شركة النيل الأزرق للمجوهرات"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 134,
+    "text": "أنظمة المحاسبة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 135,
+    "text": "ربط وإدارة الأنظمة المحاسبية الخارجية مع نظام الموارد البشرية"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 148,
+    "text": "مزامنة البيانات"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 155,
+    "text": "نظرة عامة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 156,
+    "text": "الأنظمة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 157,
+    "text": "ربط الحقول"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 158,
+    "text": "التقارير"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 166,
+    "text": "حالة المزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 174,
+    "text": "جاري تحميل حالة المزامنة..."
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 192,
+    "text": "حالة المزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 199,
+    "text": "السجلات المعالجة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 204,
+    "text": "الأخطاء"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 211,
+    "text": "التحذيرات"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 219,
+    "text": "آخر تشغيل:"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 223,
+    "text": "التشغيل التالي:"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 227,
+    "text": "مدة التشغيل:"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 245,
+    "text": "الأنظمة المتصلة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 257,
+    "text": "الأنظمة المنقطعة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 269,
+    "text": "قيد الإعداد"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 277,
+    "text": "الإجراءات السريعة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 285,
+    "text": "مزامنة فورية"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 289,
+    "text": "تقرير المزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 293,
+    "text": "إعدادات الربط"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 297,
+    "text": "نسخ احتياطي"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 306,
+    "text": "الأنظمة المحاسبية"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 308,
+    "text": "إضافة نظام جديد"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 313,
+    "text": "جاري تحميل الأنظمة المحاسبية..."
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 317,
+    "text": "خطأ في تحميل الأنظمة المحاسبية"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 348,
+    "text": "تكرار المزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 352,
+    "text": "آخر مزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 360,
+    "text": "حالة الاتصال"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 366,
+    "text": "أنواع البيانات المدعومة:"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 385,
+    "text": "إعدادات"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 389,
+    "text": "مزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 393,
+    "text": "السجلات"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 399,
+    "text": "ربط النظام"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 413,
+    "text": "ربط الحقول"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 415,
+    "text": "إعدادات الربط"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 422,
+    "text": "ربط حقول البيانات"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 425,
+    "text": "جاري تحميل ربط الحقول..."
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 429,
+    "text": "خطأ في تحميل ربط الحقول"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 458,
+    "text": "تعديل"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 472,
+    "text": "دليل ربط الحقول"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 477,
+    "text": "نصائح للربط الصحيح:"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 479,
+    "text": "• تأكد من تطابق أنواع البيانات بين النظامين"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 480,
+    "text": "• استخدم أسماء الحقول الصحيحة كما هي في النظام المحاسبي"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 481,
+    "text": "• اختبر الربط بعد كل تغيير"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 482,
+    "text": "• احتفظ بنسخة احتياطية من إعدادات الربط"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 493,
+    "text": "تقارير المحاسبة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 494,
+    "text": "قريباً - تقارير شاملة للعمليات المحاسبية"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 502,
+    "text": "تقرير المزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 503,
+    "text": "سجل تفصيلي لعمليات المزامنة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 510,
+    "text": "تقرير المرتبات"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 511,
+    "text": "ملخص مالي للمرتبات المنقولة"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 518,
+    "text": "تقرير الأخطاء"
+  },
+  {
+    "file": "client/src/pages/accounting-systems.tsx",
+    "line": 519,
+    "text": "سجل الأخطاء وحالات الفشل"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 37,
+    "text": "ابحث عن الموظفين، المستندات، التقارير..."
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 45,
+    "text": "فلترة متقدمة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 49,
+    "text": "بحث"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 64,
+    "text": "ملخص النتائج"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 70,
+    "text": "إجمالي النتائج"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 74,
+    "text": "الموظفين"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 78,
+    "text": "المستندات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 93,
+    "text": "نتائج البحث"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 98,
+    "text": "دقة البحث"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 102,
+    "text": "متوسط وقت البحث"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 106,
+    "text": "اتجاهات البحث"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 129,
+    "text": "خيارات البحث"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 134,
+    "text": "أنواع البحث"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 145,
+    "text": "الفلترة المتاحة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 223,
+    "text": "تحليل الأداء"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 231,
+    "text": "معدل الإنتاجية"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 253,
+    "text": "تحليل الموظفين"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 260,
+    "text": "الموظفون النشطون"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 264,
+    "text": "في إجازة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 268,
+    "text": "جدد"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 278,
+    "text": "التحليل المالي"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 286,
+    "text": "إجمالي الرواتب"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 290,
+    "text": "مقارنة بالشهر السابق"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 299,
+    "text": "التنبؤات المستقبلية"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 304,
+    "text": "توقعات الموظفين"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 307,
+    "text": "الموظفون المتوقع توظيفهم"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 311,
+    "text": "الموظفون المتوقع استقالتهم"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 315,
+    "text": "معدل الاحتفاظ"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 321,
+    "text": "توقعات الأداء"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 324,
+    "text": "معدل الإنتاجية المتوقع"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 328,
+    "text": "تكلفة العمالة المتوقعة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 332,
+    "text": "معدل الرضا المتوقع"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 350,
+    "text": "المشاريع النشطة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 357,
+    "text": "مشروع نشط"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 365,
+    "text": "المهام المكتملة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 372,
+    "text": "مهمة مكتملة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 380,
+    "text": "الفرق العاملة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 387,
+    "text": "فريق نشط"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 395,
+    "text": "قائمة المشاريع"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 421,
+    "text": "الموعد النهائي:"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 444,
+    "text": "إجمالي الأصول"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 451,
+    "text": "أصل مسجل"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 459,
+    "text": "القيمة الإجمالية"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 466,
+    "text": "دينار كويتي"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 474,
+    "text": "الأصول النشطة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 481,
+    "text": "أصل نشط"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 489,
+    "text": "فئات الأصول"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 494,
+    "text": "الأجهزة الإلكترونية"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 497,
+    "text": "أجهزة الكمبيوتر"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 501,
+    "text": "الطابعات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 505,
+    "text": "الشاشات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 511,
+    "text": "الأثاث والمعدات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 514,
+    "text": "المكاتب والكراسي"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 518,
+    "text": "خزائن الملفات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 522,
+    "text": "معدات المكتب"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 540,
+    "text": "إجمالي المستخدمين"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 547,
+    "text": "مستخدم نشط"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 555,
+    "text": "الأدوار المحددة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 562,
+    "text": "دور مختلف"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 570,
+    "text": "طلبات الصلاحيات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 577,
+    "text": "طلب معلق"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 585,
+    "text": "إدارة الأدوار والصلاحيات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 590,
+    "text": "الأدوار المتاحة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 604,
+    "text": "مستخدم"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 606,
+    "text": "صلاحية"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 612,
+    "text": "الصلاحيات الشائعة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 650,
+    "text": "التحميلات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 657,
+    "text": "تحميل إجمالي"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 665,
+    "text": "المستخدمون النشطون"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 672,
+    "text": "مستخدم نشط"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 680,
+    "text": "معدل الاستخدام"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 687,
+    "text": "معدل نشط"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 695,
+    "text": "إحصائيات التطبيق المحمول"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 700,
+    "text": "إحصائيات المنصات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 704,
+    "text": "756 تحميل"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 708,
+    "text": "478 تحميل"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 711,
+    "text": "معدل التقييم"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 717,
+    "text": "الميزات الأكثر استخداماً"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 720,
+    "text": "تسجيل الحضور"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 724,
+    "text": "عرض الرواتب"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 728,
+    "text": "طلب الإجازات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 796,
+    "text": "البحث..."
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 810,
+    "text": "نظرة عامة"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 811,
+    "text": "التفاصيل"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 812,
+    "text": "الإعدادات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 822,
+    "text": "تفاصيل إضافية"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 825,
+    "text": "هنا يمكن عرض تفاصيل إضافية حول"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 835,
+    "text": "إعدادات"
+  },
+  {
+    "file": "client/src/pages/advanced-search.tsx",
+    "line": 838,
+    "text": "هنا يمكن تكوين إعدادات"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 34,
+    "text": "الذكاء الاصطناعي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 35,
+    "text": "تحليلات ذكية ومساعد آلي متقدم"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 40,
+    "text": "متصل"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 53,
+    "text": "التحليلات"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 57,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 61,
+    "text": "المعلومات"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 73,
+    "text": "إحصائيات سريعة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 79,
+    "text": "إجمالي الطلبات"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 83,
+    "text": "متوسط وقت الاستجابة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 87,
+    "text": "معدل النجاح"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 91,
+    "text": "رضا المستخدمين"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 100,
+    "text": "الميزات المتاحة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 107,
+    "text": "تحليل النصوص"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 111,
+    "text": "توليد التقارير"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 115,
+    "text": "تحليل المشاعر"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 119,
+    "text": "استخراج الكلمات المفتاحية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 123,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 143,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 148,
+    "text": "مساعد ذكي متقدم يساعدك في:"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 153,
+    "text": "الإجابة على الأسئلة حول النظام"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 157,
+    "text": "مساعدتك في إدارة الموظفين"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 161,
+    "text": "متابعة التراخيص والانتهاء"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 165,
+    "text": "استخراج التقارير المختلفة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 169,
+    "text": "تحليل البيانات والمعلومات"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 179,
+    "text": "أمثلة على الاستخدام"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 185,
+    "text": "\"كيف أضيف موظف جديد؟\""
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 188,
+    "text": "\"أعطني تقرير الغياب لهذا الشهر\""
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 191,
+    "text": "\"كم رخصة ستنتهي خلال الشهر القادم؟\""
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 194,
+    "text": "\"ما هي ميزات النظام؟\""
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 205,
+    "text": "محادثة مع المساعد الذكي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 222,
+    "text": "معلومات تقنية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 228,
+    "text": "المكونات المستخدمة:"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 230,
+    "text": "• Local LLM للتحليل والمعالجة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 231,
+    "text": "• قاعدة معرفة متقدمة للردود"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 232,
+    "text": "• خوارزميات تحليل المشاعر"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 233,
+    "text": "• استخراج الكلمات المفتاحية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 234,
+    "text": "• توليد الملخصات الذكية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 238,
+    "text": "الميزات المتقدمة:"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 240,
+    "text": "• تحليل النصوص باللغة العربية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 241,
+    "text": "• فهم السياق والاستعلامات"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 242,
+    "text": "• تحليلات ذكية للاستخدام"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 243,
+    "text": "• توصيات مخصصة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 244,
+    "text": "• تقارير تفاعلية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 253,
+    "text": "دليل الاستخدام"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 259,
+    "text": "كيفية الاستخدام:"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 261,
+    "text": "1. اكتب سؤالك أو طلبك باللغة العربية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 262,
+    "text": "2. انتظر رد المساعد الذكي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 263,
+    "text": "3. استخدم الأزرار السريعة للاستعلامات الشائعة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 264,
+    "text": "4. تصفح التحليلات للحصول على رؤى مفصلة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 268,
+    "text": "نصائح للحصول على أفضل النتائج:"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 270,
+    "text": "• استخدم لغة واضحة ومباشرة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 271,
+    "text": "• اطرح أسئلة محددة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 272,
+    "text": "• استخدم الكلمات المفتاحية المناسبة"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 273,
+    "text": "• راجع التحليلات بانتظام"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 283,
+    "text": "حالة النظام"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 292,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 293,
+    "text": "متصل ومتاح"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 299,
+    "text": "تحليل النصوص"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 300,
+    "text": "يعمل بشكل طبيعي"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 306,
+    "text": "تحليل المشاعر"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 307,
+    "text": "دقة عالية"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 313,
+    "text": "التحليلات"
+  },
+  {
+    "file": "client/src/pages/ai-analytics.tsx",
+    "line": 314,
+    "text": "بيانات محدثة"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 58,
+    "text": "المساعد الذكي - HRMS Elite"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 59,
+    "text": "تجربة المساعد الذكي لنظام إدارة الموارد البشرية"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 60,
+    "text": "مساعد ذكي, AI, محادثة, تحليل, HRMS"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 68,
+    "text": "المساعد الذكي"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 74,
+    "text": "استكشف قوة الذكاء الاصطناعي في إدارة الموارد البشرية.\n            اسأل أي سؤال واحصل على إجابات ذكية وتحليلات مفصلة."
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 101,
+    "text": "أمثلة سريعة للاستفسارات"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 125,
+    "text": "كيفية الاستخدام"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 133,
+    "text": "اكتب سؤالك"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 134,
+    "text": "اكتب أي سؤال باللغة العربية"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 142,
+    "text": "احصل على الإجابة"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 143,
+    "text": "المساعد سيجيبك فوراً"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 151,
+    "text": "استخدم الإجراءات السريعة"
+  },
+  {
+    "file": "client/src/pages/ai-chatbot-demo.tsx",
+    "line": 152,
+    "text": "اضغط على الأزرار السريعة للحصول على تقارير جاهزة"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 127,
+    "text": "لوحة التحكم الذكية"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 130,
+    "text": "تحليلات ذكية وتنبؤات باستخدام الذكاء الاصطناعي"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 156,
+    "text": "نظرة عامة"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 157,
+    "text": "التراخيص"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 158,
+    "text": "الحضور"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 159,
+    "text": "الموظفين"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 168,
+    "text": "تنبؤ انتهاء التراخيص"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 192,
+    "text": "أنماط الحضور الأسبوعية"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 219,
+    "text": "حالة التراخيص"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 253,
+    "text": "التراخيص المهددة بالانتهاء"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 273,
+    "text": "يوم"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 288,
+    "text": "معدل الحضور الشهري"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 308,
+    "text": "إحصائيات الحضور"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 313,
+    "text": "نسبة الحضور الإجمالية"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 317,
+    "text": "متوسط التأخير"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 318,
+    "text": "12 دقيقة"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 321,
+    "text": "أيام الغياب الشهرية"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 322,
+    "text": "3.2 يوم"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 325,
+    "text": "أفضل قسم في الحضور"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 326,
+    "text": "قسم IT"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 340,
+    "text": "أكثر الموظفين تغييراً للوظائف"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 360,
+    "text": "تحليل أداء الموظفين"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 375,
+    "text": "الأداء:"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 401,
+    "text": "إجراءات الذكاء الاصطناعي"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 414,
+    "text": "تقرير الغياب"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 424,
+    "text": "التراخيص المنتهية"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 434,
+    "text": "تحليل الأداء"
+  },
+  {
+    "file": "client/src/pages/ai-dashboard.tsx",
+    "line": 444,
+    "text": "التوصيات"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 174,
+    "text": "إدارة الشركات"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 175,
+    "text": "إدارة شاملة لجميع الشركات المسجلة في النظام"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 180,
+    "text": "إضافة شركة جديدة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 198,
+    "text": "اسم الشركة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 200,
+    "text": "اسم الشركة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 211,
+    "text": "نوع الصناعة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 215,
+    "text": "اختر نوع الصناعة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 219,
+    "text": "تقنية المعلومات"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 220,
+    "text": "الرعاية الصحية"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 221,
+    "text": "المالية والمصرفية"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 222,
+    "text": "التصنيع"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 223,
+    "text": "التجارة والبيع"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 224,
+    "text": "البناء والتشييد"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 225,
+    "text": "التعليم"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 226,
+    "text": "أخرى"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 240,
+    "text": "وصف الشركة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 242,
+    "text": "وصف مختصر عن نشاط الشركة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 255,
+    "text": "رقم الهاتف"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 268,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 283,
+    "text": "العنوان"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 285,
+    "text": "العنوان الكامل للشركة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 298,
+    "text": "الموقع الإلكتروني (اختياري)"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 311,
+    "text": "حجم الشركة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 315,
+    "text": "اختر حجم الشركة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 319,
+    "text": "ناشئة (1-10 موظفين)"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 320,
+    "text": "صغيرة (11-50 موظف)"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 321,
+    "text": "متوسطة (51-200 موظف)"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 322,
+    "text": "كبيرة (201-1000 موظف)"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 323,
+    "text": "مؤسسية (+1000 موظف)"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 337,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 356,
+    "text": "إجمالي الشركات"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 368,
+    "text": "الشركات النشطة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 380,
+    "text": "قيد المراجعة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 392,
+    "text": "معلقة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 408,
+    "text": "البحث في الشركات..."
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 419,
+    "text": "فلترة حسب الحالة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 422,
+    "text": "جميع الحالات"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 423,
+    "text": "نشطة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 424,
+    "text": "قيد المراجعة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 425,
+    "text": "معلقة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 435,
+    "text": "جاري تحميل الشركات..."
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 443,
+    "text": "خطأ في تحميل الشركات"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 503,
+    "text": "موظف"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 507,
+    "text": "رخصة"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 519,
+    "text": "عرض التفاصيل"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 530,
+    "text": "تاريخ التسجيل:"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 543,
+    "text": "لا توجد شركات"
+  },
+  {
+    "file": "client/src/pages/companies.tsx",
+    "line": 551,
+    "text": "إضافة شركة جديدة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 247,
+    "text": "حدث خطأ في تحميل بيانات الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 253,
+    "text": "الشركة غير موجودة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 270,
+    "text": "العودة للشركات"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 275,
+    "text": "تفاصيل شاملة للشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 281,
+    "text": "تعديل الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 287,
+    "text": "تعديل بيانات الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 297,
+    "text": "اسم الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 299,
+    "text": "اسم الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 310,
+    "text": "نوع الصناعة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 314,
+    "text": "اختر نوع الصناعة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 318,
+    "text": "تقنية المعلومات"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 319,
+    "text": "الرعاية الصحية"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 320,
+    "text": "المالية والمصرفية"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 321,
+    "text": "التصنيع"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 322,
+    "text": "التجارة والبيع"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 323,
+    "text": "البناء والتشييد"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 324,
+    "text": "التعليم"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 325,
+    "text": "أخرى"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 339,
+    "text": "وصف الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 341,
+    "text": "وصف الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 354,
+    "text": "العنوان"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 356,
+    "text": "عنوان الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 367,
+    "text": "رقم الهاتف"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 369,
+    "text": "رقم الهاتف"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 383,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 385,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 396,
+    "text": "الموقع الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 398,
+    "text": "الموقع الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 412,
+    "text": "حجم الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 416,
+    "text": "اختر حجم الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 420,
+    "text": "صغيرة (1-50 موظف)"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 421,
+    "text": "متوسطة (51-200 موظف)"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 422,
+    "text": "كبيرة (201-1000 موظف)"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 423,
+    "text": "مؤسسة (أكثر من 1000 موظف)"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 435,
+    "text": "حالة الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 439,
+    "text": "اختر حالة الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 443,
+    "text": "نشطة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 444,
+    "text": "قيد المراجعة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 445,
+    "text": "معلقة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 459,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 482,
+    "text": "نظرة عامة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 483,
+    "text": "الموظفين"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 484,
+    "text": "المستندات"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 485,
+    "text": "التحليلات"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 495,
+    "text": "معلومات الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 503,
+    "text": "العنوان:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 508,
+    "text": "الهاتف:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 513,
+    "text": "البريد الإلكتروني:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 519,
+    "text": "الموقع:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 535,
+    "text": "الصناعة:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 539,
+    "text": "الحجم:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 550,
+    "text": "الإحصائيات"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 560,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 566,
+    "text": "الموظفين النشطين"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 572,
+    "text": "المستندات"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 576,
+    "text": "التراخيص"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 586,
+    "text": "إجراءات سريعة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 596,
+    "text": "إضافة موظف جديد"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 604,
+    "text": "رفع مستند جديد"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 612,
+    "text": "عرض التقارير"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 623,
+    "text": "وصف الشركة"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 637,
+    "text": "الموظفين"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 639,
+    "text": "إضافة موظف جديد"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 671,
+    "text": "تاريخ التعيين:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 696,
+    "text": "المستندات"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 698,
+    "text": "رفع مستند جديد"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 722,
+    "text": "تاريخ الرفع:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 728,
+    "text": "تم الرفع بواسطة:"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 733,
+    "text": "تحميل"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 737,
+    "text": "عرض"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 750,
+    "text": "التحليلات والتقارير"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 757,
+    "text": "نمو الموظفين"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 760,
+    "text": "مقارنة بالشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 768,
+    "text": "إجمالي الرواتب"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 771,
+    "text": "هذا الشهر"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 779,
+    "text": "متوسط الحضور"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 782,
+    "text": "هذا الشهر"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 790,
+    "text": "رضا الموظفين"
+  },
+  {
+    "file": "client/src/pages/company-details.tsx",
+    "line": 793,
+    "text": "متوسط التقييم"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 180,
+    "text": "نظام إدارة الموارد البشرية المتقدم"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 181,
+    "text": "اختر الشركة التي تريد إدارتها"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 189,
+    "text": "البحث في الشركات..."
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 200,
+    "text": "جاري تحميل الشركات..."
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 204,
+    "text": "خطأ في تحميل الشركات"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 213,
+    "text": "لا توجد شركات"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 272,
+    "text": "موظف"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 277,
+    "text": "آخر نشاط: منذ"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 278,
+    "text": "ساعة"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 291,
+    "text": "دخول"
+  },
+  {
+    "file": "client/src/pages/company-selection.tsx",
+    "line": 306,
+    "text": "Zeylab HRMS • آخر تسجيل دخول:"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 206,
+    "text": "فلترة"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 213,
+    "text": "رفع مستند"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 223,
+    "text": "البحث في المستندات..."
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 231,
+    "text": "جميع الفئات"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 234,
+    "text": "جميع الفئات"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 235,
+    "text": "عقود"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 236,
+    "text": "رواتب"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 237,
+    "text": "تقارير"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 238,
+    "text": "شخصية"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 239,
+    "text": "إجازات"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 246,
+    "text": "إجمالي المستندات:"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 252,
+    "text": "الكل"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 256,
+    "text": "عقود"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 260,
+    "text": "رواتب"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 264,
+    "text": "تقارير"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 268,
+    "text": "شخصية"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 272,
+    "text": "إجازات"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 339,
+    "text": "عرض"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 343,
+    "text": "تحميل"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 351,
+    "text": "تعديل"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 360,
+    "text": "حذف"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 372,
+    "text": "لا توجد مستندات"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 375,
+    "text": "لم يتم العثور على مستندات تطابق معايير البحث"
+  },
+  {
+    "file": "client/src/pages/documents.tsx",
+    "line": 409,
+    "text": "تفاصيل المستند"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 145,
+    "text": "نشط"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 147,
+    "text": "غير نشط"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 149,
+    "text": "منتهي"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 151,
+    "text": "غير محدد"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 335,
+    "text": "حدث خطأ أثناء تحميل بيانات الموظفين"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 343,
+    "text": "إدارة الموظفين"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 344,
+    "text": "إدارة شاملة لجميع بيانات الموظفين والملفات الشخصية"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 351,
+    "text": "تصدير"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 356,
+    "text": "تحديث"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 363,
+    "text": "إضافة موظف"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 382,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 392,
+    "text": "الموظفين النشطين"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 402,
+    "text": "متوسط الراتب"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 412,
+    "text": "الموظفين غير النشطين"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 427,
+    "text": "فلاتر البحث"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 434,
+    "text": "البحث"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 436,
+    "text": "البحث بالاسم أو البريد الإلكتروني أو الهاتف..."
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 443,
+    "text": "القسم"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 446,
+    "text": "اختر القسم"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 449,
+    "text": "جميع الأقسام"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 458,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 461,
+    "text": "اختر الحالة"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 464,
+    "text": "جميع الحالات"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 465,
+    "text": "نشط"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 466,
+    "text": "غير نشط"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 467,
+    "text": "منتهي"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 473,
+    "text": "نطاق الراتب"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 476,
+    "text": "من"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 482,
+    "text": "إلى"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 497,
+    "text": "قائمة الموظفين ("
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 500,
+    "text": "حذف المحدد ("
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 519,
+    "text": "الموظف"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 520,
+    "text": "معلومات الاتصال"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 521,
+    "text": "المنصب والقسم"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 522,
+    "text": "الراتب"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 523,
+    "text": "تاريخ التوظيف"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 524,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 525,
+    "text": "الإجراءات"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 636,
+    "text": "تفاصيل الموظف"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 637,
+    "text": "عرض كافة معلومات الموظف"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 660,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 664,
+    "text": "رقم الهاتف"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 668,
+    "text": "الراتب"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 672,
+    "text": "تاريخ التوظيف"
+  },
+  {
+    "file": "client/src/pages/employee-management.tsx",
+    "line": 678,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced-example.tsx",
+    "line": 102,
+    "text": "جاري التحميل..."
+  },
+  {
+    "file": "client/src/pages/employees-enhanced-example.tsx",
+    "line": 108,
+    "text": "حدث خطأ في تحميل البيانات"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced-example.tsx",
+    "line": 115,
+    "text": "إدارة الموظفين"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced-example.tsx",
+    "line": 116,
+    "text": "تحديث البيانات"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 148,
+    "text": "نشط"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 150,
+    "text": "غير نشط"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 152,
+    "text": "منتهي"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 154,
+    "text": "غير محدد"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 344,
+    "text": "حدث خطأ أثناء تحميل بيانات الموظفين"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 352,
+    "text": "إدارة الموظفين"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 353,
+    "text": "إدارة شاملة لجميع بيانات الموظفين والملفات الشخصية"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 360,
+    "text": "تصدير"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 365,
+    "text": "تحديث"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 372,
+    "text": "إضافة موظف"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 391,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 401,
+    "text": "الموظفين النشطين"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 411,
+    "text": "متوسط الراتب"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 421,
+    "text": "الموظفين غير النشطين"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 436,
+    "text": "فلاتر البحث"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 443,
+    "text": "البحث"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 445,
+    "text": "البحث بالاسم أو البريد الإلكتروني أو الهاتف..."
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 452,
+    "text": "القسم"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 455,
+    "text": "اختر القسم"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 458,
+    "text": "جميع الأقسام"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 467,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 470,
+    "text": "اختر الحالة"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 473,
+    "text": "جميع الحالات"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 474,
+    "text": "نشط"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 475,
+    "text": "غير نشط"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 476,
+    "text": "منتهي"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 482,
+    "text": "نطاق الراتب"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 485,
+    "text": "من"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 491,
+    "text": "إلى"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 506,
+    "text": "قائمة الموظفين ("
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 509,
+    "text": "حذف المحدد ("
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 528,
+    "text": "الموظف"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 529,
+    "text": "معلومات الاتصال"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 530,
+    "text": "المنصب والقسم"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 531,
+    "text": "الراتب"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 532,
+    "text": "تاريخ التوظيف"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 533,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 534,
+    "text": "الإجراءات"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 645,
+    "text": "تفاصيل الموظف"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 646,
+    "text": "عرض كافة معلومات الموظف"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 669,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 673,
+    "text": "رقم الهاتف"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 677,
+    "text": "الراتب"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 681,
+    "text": "تاريخ التوظيف"
+  },
+  {
+    "file": "client/src/pages/employees-enhanced.tsx",
+    "line": 687,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 127,
+    "text": "مدير الشركة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 128,
+    "text": "شركة النيل الأزرق للمجوهرات"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 540,
+    "text": "إدارة الموظفين"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 541,
+    "text": "إدارة شاملة لجميع بيانات الموظفين والملفات الشخصية"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 548,
+    "text": "تصدير"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 555,
+    "text": "إضافة موظف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 561,
+    "text": "إضافة موظف جديد"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 562,
+    "text": "قم بتعبئة بيانات الموظف الجديد"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 568,
+    "text": "الاسم الكامل *"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 577,
+    "text": "البريد الإلكتروني *"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 587,
+    "text": "رقم الهاتف *"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 596,
+    "text": "الرقم المدني *"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 605,
+    "text": "المنصب *"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 614,
+    "text": "القسم *"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 620,
+    "text": "اختر القسم"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 631,
+    "text": "الراتب"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 641,
+    "text": "تاريخ التوظيف *"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 651,
+    "text": "تاريخ الميلاد"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 661,
+    "text": "سنوات الخبرة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 671,
+    "text": "المؤهل العلمي"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 680,
+    "text": "جهة اتصال طوارئ"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 693,
+    "text": "العنوان"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 702,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 722,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 734,
+    "text": "الموظفون النشطون"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 746,
+    "text": "متوسط الراتب"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 760,
+    "text": "متوسط الخبرة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 766,
+    "text": "سنوات"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 781,
+    "text": "البحث في الموظفين (اسم، رقم موظف، بريد إلكتروني)"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 795,
+    "text": "فلاتر متقدمة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 804,
+    "text": "جميع الأقسام"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 816,
+    "text": "جميع الحالات"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 817,
+    "text": "نشط"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 818,
+    "text": "غير نشط"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 819,
+    "text": "مؤرشف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 829,
+    "text": "نطاق الراتب"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 832,
+    "text": "من"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 838,
+    "text": "إلى"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 847,
+    "text": "مستوى الخبرة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 870,
+    "text": "موظف محدد"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 879,
+    "text": "حذف محدد"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 887,
+    "text": "إلغاء التحديد"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 895,
+    "text": "جاري تحميل الموظفين..."
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 903,
+    "text": "خطأ في تحميل الموظفين"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 925,
+    "text": "الموظف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 939,
+    "text": "رقم الموظف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 953,
+    "text": "المنصب"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 967,
+    "text": "القسم"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 981,
+    "text": "الراتب"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 995,
+    "text": "تاريخ التوظيف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1004,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1005,
+    "text": "الإجراءات"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1075,
+    "text": "عرض"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1076,
+    "text": "من"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1076,
+    "text": "موظف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1091,
+    "text": "صفحة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1094,
+    "text": "من"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1124,
+    "text": "تفاصيل الموظف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1144,
+    "text": "رقم الموظف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1149,
+    "text": "الرقم المدني"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1154,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1162,
+    "text": "رقم الهاتف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1170,
+    "text": "القسم"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1178,
+    "text": "الراتب"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1186,
+    "text": "تاريخ التوظيف"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1199,
+    "text": "سنوات الخبرة"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1200,
+    "text": "سنوات"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1206,
+    "text": "المؤهل العلمي"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1213,
+    "text": "جهة اتصال طوارئ"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1224,
+    "text": "العنوان"
+  },
+  {
+    "file": "client/src/pages/employees.tsx",
+    "line": 1234,
+    "text": "المهارات"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 57,
+    "text": "مدير الشركة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 58,
+    "text": "شركة النيل الأزرق للمجوهرات"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 234,
+    "text": "النماذج الحكومية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 235,
+    "text": "إدارة وتعبئة النماذج الحكومية بسهولة مع الملء التلقائي للبيانات"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 241,
+    "text": "العودة للوحة التحكم"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 250,
+    "text": "جاري تحميل النماذج الحكومية..."
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 258,
+    "text": "خطأ في تحميل النماذج الحكومية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 271,
+    "text": "إجمالي النماذج"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 282,
+    "text": "طلبات مقدمة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 295,
+    "text": "قيد المعالجة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 308,
+    "text": "مكتملة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 325,
+    "text": "النماذج المتاحة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 329,
+    "text": "الطلبات المقدمة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 333,
+    "text": "القوالب"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 346,
+    "text": "البحث في النماذج..."
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 355,
+    "text": "فئة النموذج"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 358,
+    "text": "جميع الفئات"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 359,
+    "text": "وثائق شخصية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 359,
+    "text": "وثائق شخصية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 360,
+    "text": "شئون العمل"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 360,
+    "text": "شئون العمل"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 361,
+    "text": "إجراءات قانونية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 361,
+    "text": "إجراءات قانونية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 362,
+    "text": "تراخيص تجارية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 362,
+    "text": "تراخيص تجارية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 384,
+    "text": "الاسم بالعربية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 388,
+    "text": "الجهة المصدرة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 393,
+    "text": "الرسوم"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 400,
+    "text": "مدة الإنجاز"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 416,
+    "text": "التفاصيل"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 428,
+    "text": "المستندات المطلوبة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 442,
+    "text": "مدة الصلاحية"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 446,
+    "text": "آخر تحديث"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 463,
+    "text": "تقديم طلب"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 477,
+    "text": "الشركة:"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 480,
+    "text": "اختر الشركة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 483,
+    "text": "جميع الشركات"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 499,
+    "text": "رقم الطلب"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 500,
+    "text": "النموذج"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 501,
+    "text": "الشركة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 502,
+    "text": "تاريخ التقديم"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 503,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 504,
+    "text": "الإجراءات"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 550,
+    "text": "لا توجد طلبات مقدمة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 562,
+    "text": "قوالب النماذج"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 563,
+    "text": "قم بتحميل قوالب النماذج الحكومية للاطلاع عليها قبل التقديم"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 567,
+    "text": "تحميل جميع القوالب"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 583,
+    "text": "تقديم طلب نموذج"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 599,
+    "text": "النموذج"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 603,
+    "text": "الشركة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 606,
+    "text": "اختر الشركة"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 618,
+    "text": "رقم الموظف (اختياري)"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 620,
+    "text": "أدخل رقم الموظف إذا كان النموذج خاص بموظف"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 626,
+    "text": "ملاحظات"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 628,
+    "text": "أي ملاحظات إضافية..."
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 636,
+    "text": "سيتم ملء النموذج تلقائياً بالبيانات المتاحة من النظام"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 641,
+    "text": "إلغاء"
+  },
+  {
+    "file": "client/src/pages/government-forms.tsx",
+    "line": 647,
+    "text": "ملء تلقائي فقط"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 194,
+    "text": "لوحة التحكم"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 195,
+    "text": "مرحباً بك في نظام إدارة الموارد البشرية"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 199,
+    "text": "العرض النشط:"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 208,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 213,
+    "text": "+12% من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 221,
+    "text": "التراخيص النشطة"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 226,
+    "text": "جميع التراخيص سارية"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 234,
+    "text": "المستندات"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 239,
+    "text": "+8 مستندات جديدة"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 247,
+    "text": "الإجازات المعلقة"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 252,
+    "text": "تحتاج مراجعة"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 263,
+    "text": "معلومات الشركة"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 264,
+    "text": "تفاصيل الشركة الأساسية"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 270,
+    "text": "اسم الشركة:"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 274,
+    "text": "رقم الملف التجاري:"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 278,
+    "text": "النشاط التجاري:"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 282,
+    "text": "الموقع:"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 290,
+    "text": "إجراءات سريعة"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 291,
+    "text": "الوصول السريع للميزات المهمة"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 297,
+    "text": "إدارة الموظفين"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 301,
+    "text": "إدارة الإجازات"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 305,
+    "text": "الرواتب والمكافآت"
+  },
+  {
+    "file": "client/src/pages/layout-example.tsx",
+    "line": 309,
+    "text": "التقارير والإحصائيات"
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 45,
+    "text": "جاري تحميل صفحة اختيار الشركة..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 51,
+    "text": "جاري تحميل صفحة تسجيل الدخول..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 57,
+    "text": "جاري تحميل الصفحة..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 63,
+    "text": "جاري تحميل لوحة التحكم..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 69,
+    "text": "جاري تحميل قائمة الشركات..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 75,
+    "text": "جاري تحميل تفاصيل الشركة..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 81,
+    "text": "جاري تحميل قائمة الموظفين..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 87,
+    "text": "جاري تحميل قائمة الموظفين المحسنة..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 93,
+    "text": "جاري تحميل التقارير..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 99,
+    "text": "جاري تحميل الإعدادات..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 105,
+    "text": "جاري تحميل صفحة الحضور..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 111,
+    "text": "جاري تحميل طلبات الإجازة..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 117,
+    "text": "جاري تحميل كشف الرواتب..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 123,
+    "text": "جاري تحميل المستندات..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 129,
+    "text": "جاري تحميل صفحة التدريب..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 135,
+    "text": "جاري تحميل صفحة التوظيف..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 141,
+    "text": "جاري تحميل تقييم الأداء..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 147,
+    "text": "جاري تحميل البحث المتقدم..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 153,
+    "text": "جاري تحميل لوحة التحكم الذكية..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 159,
+    "text": "جاري تحميل المحادثة الذكية..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 165,
+    "text": "جاري تحميل التحليلات الذكية..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 171,
+    "text": "جاري تحميل أنظمة المحاسبة..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 177,
+    "text": "جاري تحميل النماذج الحكومية..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 183,
+    "text": "جاري تحميل التراخيص..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 189,
+    "text": "جاري تحميل الإجازات..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 195,
+    "text": "جاري تحميل التوقيعات..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 201,
+    "text": "جاري تحميل اختبار التوقيع..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 207,
+    "text": "جاري تحميل اختبار الصلاحيات..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 213,
+    "text": "جاري تحميل لوحة التحكم حسب الدور..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 219,
+    "text": "جاري تحميل لوحة تحكم المدير العام..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 225,
+    "text": "جاري تحميل إدارة الموظفين..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 231,
+    "text": "جاري تحميل مثال التخطيط..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 237,
+    "text": "جاري تحميل صفحة اختبار الأداء..."
+  },
+  {
+    "file": "client/src/pages/lazy-pages.tsx",
+    "line": 243,
+    "text": "جاري تحميل اختبار الترجمة..."
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 62,
+    "text": "أحمد محمد علي"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 63,
+    "text": "شركة النيل الأزرق للمجوهرات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 223,
+    "text": "نظام الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 224,
+    "text": "إدارة وحساب رواتب الموظفين الشهرية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 238,
+    "text": "يناير"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 239,
+    "text": "فبراير"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 240,
+    "text": "مارس"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 241,
+    "text": "أبريل"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 242,
+    "text": "مايو"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 243,
+    "text": "يونيو"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 244,
+    "text": "يوليو"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 245,
+    "text": "أغسطس"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 246,
+    "text": "سبتمبر"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 247,
+    "text": "أكتوبر"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 248,
+    "text": "نوفمبر"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 249,
+    "text": "ديسمبر"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 282,
+    "text": "جاري تحميل بيانات الرواتب..."
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 290,
+    "text": "خطأ في تحميل بيانات الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 302,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 316,
+    "text": "إجمالي الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 324,
+    "text": "قبل الخصومات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 331,
+    "text": "إجمالي الخصومات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 339,
+    "text": "ضرائب وتأمينات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 346,
+    "text": "صافي الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 354,
+    "text": "بعد الخصومات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 362,
+    "text": "كشوف الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 363,
+    "text": "المعالجة"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 364,
+    "text": "التقارير"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 365,
+    "text": "الإعدادات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 373,
+    "text": "كشوف الرواتب -"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 374,
+    "text": "تفاصيل رواتب جميع الموظفين للشهر المحدد"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 398,
+    "text": "الموظف"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 399,
+    "text": "الراتب الأساسي"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 400,
+    "text": "البدلات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 401,
+    "text": "الساعات الإضافية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 402,
+    "text": "الخصومات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 403,
+    "text": "الضرائب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 404,
+    "text": "صافي الراتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 405,
+    "text": "الحالة"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 406,
+    "text": "الإجراءات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 461,
+    "text": "معالجة الرواتب التلقائية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 462,
+    "text": "حساب الرواتب بناءً على الحضور والبدلات المعرفة"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 469,
+    "text": "عدد أيام العمل"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 473,
+    "text": "ساعات العمل اليومية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 479,
+    "text": "معدل الساعة الإضافية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 485,
+    "text": "125% من الراتب الأساسي"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 486,
+    "text": "150% من الراتب الأساسي"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 487,
+    "text": "200% من الراتب الأساسي"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 493,
+    "text": "بدء المعالجة التلقائية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 501,
+    "text": "إعدادات الضرائب والخصومات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 502,
+    "text": "تكوين معدلات الضرائب والتأمينات الاجتماعية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 508,
+    "text": "معدل ضريبة الدخل (%)"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 513,
+    "text": "التأمين الاجتماعي (%)"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 518,
+    "text": "تأمين طبي (%)"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 522,
+    "text": "حفظ الإعدادات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 535,
+    "text": "تقرير توزيع الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 540,
+    "text": "توزيع الرواتب حسب الأقسام والمناصب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 544,
+    "text": "عرض التقرير"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 553,
+    "text": "تقرير الساعات الإضافية"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 558,
+    "text": "تحليل الساعات الإضافية وتكلفتها"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 562,
+    "text": "عرض التقرير"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 571,
+    "text": "تقرير الضرائب والخصومات"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 576,
+    "text": "ملخص الضرائب والتأمينات المخصومة"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 580,
+    "text": "عرض التقرير"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 591,
+    "text": "إعدادات نظام الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 592,
+    "text": "تكوين القواعد والمعايير لحساب الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 599,
+    "text": "إعدادات الرواتب"
+  },
+  {
+    "file": "client/src/pages/payroll.tsx",
+    "line": 600,
+    "text": "تكوين معايير الحساب والبدلات والخصومات"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 30,
+    "text": "مدير الشركة"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 31,
+    "text": "شركة النيل الأزرق للمجوهرات"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 182,
+    "text": "تقييم الأداء"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 183,
+    "text": "مراقبة وتقييم أداء الموظفين والفرق"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 189,
+    "text": "البحث في التقييمات"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 193,
+    "text": "تقييم جديد"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 203,
+    "text": "نظرة عامة"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 207,
+    "text": "الأداء الفردي"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 211,
+    "text": "أداء الفرق"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 215,
+    "text": "مراجعات الأداء"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 224,
+    "text": "جاري تحميل بيانات الأداء..."
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 232,
+    "text": "خطأ في تحميل بيانات الأداء"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 246,
+    "text": "متوسط التقييم"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 258,
+    "text": "الأهداف المكتملة"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 270,
+    "text": "أفضل الأداءات"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 282,
+    "text": "تحسن الأداء"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 295,
+    "text": "توزيع الأداء حسب الدرجات"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 302,
+    "text": "ممتاز (4.5-5.0)"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 311,
+    "text": "جيد جداً (4.0-4.4)"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 320,
+    "text": "جيد (3.5-3.9)"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 329,
+    "text": "يحتاج تحسين (< 3.5)"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 340,
+    "text": "أداء الأقسام"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 355,
+    "text": "موظف"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 361,
+    "text": "متوسط النقاط"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 381,
+    "text": "نقطة"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 386,
+    "text": "آخر مراجعة:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 389,
+    "text": "التفاصيل"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 396,
+    "text": "تقييم المهارات"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 416,
+    "text": "إنجاز الأهداف"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 419,
+    "text": "الأهداف المكتملة"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 428,
+    "text": "معدل الإنجاز:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 438,
+    "text": "نقاط القوة"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 440,
+    "text": "أداء متميز في الجودة والإنتاجية"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 461,
+    "text": "المدير:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 470,
+    "text": "متوسط الأداء"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 476,
+    "text": "عدد الأعضاء"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 482,
+    "text": "معدل إنجاز الأهداف"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 489,
+    "text": "المتميزون:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 492,
+    "text": "موظف"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 497,
+    "text": "عرض تفاصيل الفريق"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 553,
+    "text": "نقطة"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 560,
+    "text": "المراجع:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 564,
+    "text": "الفترة:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 568,
+    "text": "تاريخ المراجعة:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 574,
+    "text": "المراجعة القادمة:"
+  },
+  {
+    "file": "client/src/pages/performance.tsx",
+    "line": 580,
+    "text": "عرض التقييم"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 30,
+    "text": "مدير الشركة"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 31,
+    "text": "شركة النيل الأزرق للمجوهرات"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 172,
+    "text": "التوظيف والاستقطاب"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 173,
+    "text": "إدارة الوظائف الشاغرة والمتقدمين وعمليات التوظيف"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 179,
+    "text": "البحث"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 183,
+    "text": "إضافة وظيفة جديدة"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 193,
+    "text": "الوظائف الشاغرة"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 197,
+    "text": "المتقدمون"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 201,
+    "text": "المقابلات"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 205,
+    "text": "التحليلات"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 218,
+    "text": "الوظائف النشطة"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 230,
+    "text": "إجمالي المتقدمين"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 242,
+    "text": "المقابلات المجدولة"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 254,
+    "text": "تم توظيفهم هذا الشهر"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 264,
+    "text": "جاري تحميل الوظائف..."
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 268,
+    "text": "خطأ في تحميل الوظائف"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 300,
+    "text": "متقدم"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 309,
+    "text": "القسم:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 313,
+    "text": "الخبرة:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 320,
+    "text": "الراتب:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 324,
+    "text": "آخر موعد:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 331,
+    "text": "عرض"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 335,
+    "text": "المتقدمون"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 348,
+    "text": "جاري تحميل المتقدمين..."
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 352,
+    "text": "خطأ في تحميل المتقدمين"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 373,
+    "text": "البريد الإلكتروني:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 377,
+    "text": "الهاتف:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 381,
+    "text": "الخبرة:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 391,
+    "text": "تاريخ التقديم:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 399,
+    "text": "عرض السيرة"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 403,
+    "text": "قبول"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 407,
+    "text": "رفض"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 460,
+    "text": "التاريخ:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 464,
+    "text": "الوقت:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 469,
+    "text": "المقابل:"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 474,
+    "text": "إعادة جدولة"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 478,
+    "text": "التفاصيل"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 493,
+    "text": "معدل التوظيف الشهري"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 499,
+    "text": "معدل نجاح التوظيف"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 503,
+    "text": "المتقدمون المقبولون"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 504,
+    "text": "24 من 37"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 513,
+    "text": "أكثر الوظائف طلباً"
+  },
+  {
+    "file": "client/src/pages/recruitment.tsx",
+    "line": 525,
+    "text": "طلب"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 19,
+    "text": "لوحة تحكم المدير العام"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 20,
+    "text": "مدير عام"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 26,
+    "text": "إجمالي الشركات"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 31,
+    "text": "+2 من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 37,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 42,
+    "text": "+12 من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 48,
+    "text": "التقارير النشطة"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 53,
+    "text": "+5 من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 63,
+    "text": "لوحة تحكم مدير الشركة"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 64,
+    "text": "مدير شركة"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 70,
+    "text": "الموظفين النشطين"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 75,
+    "text": "+3 من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 81,
+    "text": "الحضور اليوم"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 86,
+    "text": "91% نسبة الحضور"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 92,
+    "text": "إجمالي الرواتب"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 96,
+    "text": "45,000 د.ك"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 97,
+    "text": "+2.5% من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 107,
+    "text": "لوحة تحكم الموظف"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 108,
+    "text": "موظف"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 114,
+    "text": "أيام الإجازة المتبقية"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 119,
+    "text": "من أصل 30 يوم"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 125,
+    "text": "ساعات العمل"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 130,
+    "text": "هذا الشهر"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 136,
+    "text": "الراتب الشهري"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 140,
+    "text": "850 د.ك"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 141,
+    "text": "+50 د.ك من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 151,
+    "text": "لوحة تحكم المشرف"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 152,
+    "text": "مشرف"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 158,
+    "text": "الفريق المباشر"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 163,
+    "text": "جميعهم نشطين"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 169,
+    "text": "طلبات الإجازات"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 174,
+    "text": "في انتظار الموافقة"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 180,
+    "text": "معدل الأداء"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 185,
+    "text": "+2% من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 195,
+    "text": "لوحة تحكم العامل"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 196,
+    "text": "عامل"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 202,
+    "text": "ساعات العمل"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 207,
+    "text": "اليوم"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 213,
+    "text": "المهام المكتملة"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 218,
+    "text": "من أصل 18 مهمة"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 224,
+    "text": "الراتب الشهري"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 228,
+    "text": "650 د.ك"
+  },
+  {
+    "file": "client/src/pages/role-based-dashboard.tsx",
+    "line": 229,
+    "text": "+25 د.ك من الشهر الماضي"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 28,
+    "text": "مدير الشركة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 29,
+    "text": "شركة النيل الأزرق للمجوهرات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 131,
+    "text": "الإعدادات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 132,
+    "text": "إدارة الملف الشخصي وإعدادات النظام"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 141,
+    "text": "الملف الشخصي"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 145,
+    "text": "الأمان"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 149,
+    "text": "الإشعارات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 153,
+    "text": "التفضيلات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 157,
+    "text": "الشركة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 165,
+    "text": "الملف الشخصي"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 166,
+    "text": "إدارة معلوماتك الشخصية والمهنية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 174,
+    "text": "أم"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 178,
+    "text": "تغيير الصورة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 181,
+    "text": "JPG, PNG أو GIF. الحد الأقصى 2MB."
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 189,
+    "text": "الاسم الكامل"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 198,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 208,
+    "text": "رقم الهاتف"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 217,
+    "text": "المنصب"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 227,
+    "text": "نبذة عنك"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 237,
+    "text": "حفظ التغييرات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 247,
+    "text": "الأمان والخصوصية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 248,
+    "text": "إدارة إعدادات أمان حسابك"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 254,
+    "text": "تغيير كلمة المرور"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 257,
+    "text": "كلمة المرور الحالية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 261,
+    "text": "كلمة المرور الجديدة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 265,
+    "text": "تأكيد كلمة المرور"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 268,
+    "text": "تحديث كلمة المرور"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 275,
+    "text": "المصادقة الثنائية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 276,
+    "text": "طبقة أمان إضافية لحسابك"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 290,
+    "text": "إشعارات الأمان"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 291,
+    "text": "تنبيهات عند محاولات الدخول المشبوهة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 305,
+    "text": "حفظ إعدادات الأمان"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 315,
+    "text": "إعدادات الإشعارات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 316,
+    "text": "تخصيص تفضيلات الإشعارات والتنبيهات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 324,
+    "text": "إشعارات البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 325,
+    "text": "تلقي التنبيهات المهمة عبر البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 339,
+    "text": "إشعارات الرسائل النصية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 340,
+    "text": "تلقي التنبيهات العاجلة عبر الرسائل النصية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 354,
+    "text": "الإشعارات المباشرة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 355,
+    "text": "إشعارات فورية في المتصفح"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 371,
+    "text": "التقارير الأسبوعية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 372,
+    "text": "ملخص أسبوعي لأنشطة النظام"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 386,
+    "text": "تحديثات النظام"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 387,
+    "text": "إشعارات عن الميزات الجديدة والتحديثات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 401,
+    "text": "حفظ إعدادات الإشعارات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 411,
+    "text": "تفضيلات التطبيق"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 412,
+    "text": "تخصيص واجهة وسلوك التطبيق"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 419,
+    "text": "اللغة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 430,
+    "text": "العربية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 436,
+    "text": "المظهر"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 447,
+    "text": "فاتح"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 448,
+    "text": "داكن"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 449,
+    "text": "حسب النظام"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 454,
+    "text": "تنسيق التاريخ"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 472,
+    "text": "تنسيق الوقت"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 483,
+    "text": "24 ساعة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 484,
+    "text": "12 ساعة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 489,
+    "text": "العملة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 500,
+    "text": "دينار كويتي (KWD)"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 501,
+    "text": "ريال سعودي (SAR)"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 502,
+    "text": "درهم إماراتي (AED)"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 503,
+    "text": "دولار أمريكي (USD)"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 508,
+    "text": "المنطقة الزمنية"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 519,
+    "text": "الكويت"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 520,
+    "text": "الرياض"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 521,
+    "text": "دبي"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 527,
+    "text": "حفظ التفضيلات"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 537,
+    "text": "معلومات الشركة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 538,
+    "text": "إدارة البيانات الأساسية للشركة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 545,
+    "text": "اسم الشركة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 558,
+    "text": "هاتف الشركة"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 571,
+    "text": "البريد الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 585,
+    "text": "الموقع الإلكتروني"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 598,
+    "text": "العنوان"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 612,
+    "text": "الرقم الضريبي"
+  },
+  {
+    "file": "client/src/pages/settings.tsx",
+    "line": 626,
+    "text": "حفظ بيانات الشركة"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 83,
+    "text": "لوحة تحكم المسؤول العام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 88,
+    "text": "تسجيل الخروج"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 105,
+    "text": "إدارة الشركات"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 114,
+    "text": "إدارة الموظفين"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 123,
+    "text": "التقارير"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 132,
+    "text": "الإعدادات"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 142,
+    "text": "نظرة عامة"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 143,
+    "text": "الشركات"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 144,
+    "text": "النظام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 150,
+    "text": "إجمالي الشركات"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 156,
+    "text": "إجمالي الموظفين"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 162,
+    "text": "المستخدمين النشطين"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 168,
+    "text": "حالة النظام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 178,
+    "text": "إدارة الشركات"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 183,
+    "text": "البحث في الشركات..."
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 190,
+    "text": "شركة جديدة"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 209,
+    "text": "حالة النظام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 215,
+    "text": "استخدام الخادم"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 221,
+    "text": "قاعدة البيانات"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 227,
+    "text": "التحديث الأخير"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 234,
+    "text": "إدارة النظام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 242,
+    "text": "إعدادات النظام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 243,
+    "text": "تكوين النظام العام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 252,
+    "text": "إدارة المستخدمين"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 253,
+    "text": "صلاحيات وأدوار المستخدمين"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 262,
+    "text": "سجلات النظام"
+  },
+  {
+    "file": "client/src/pages/super-admin-dashboard.tsx",
+    "line": 263,
+    "text": "مراقبة نشاط النظام"
+  }
+]

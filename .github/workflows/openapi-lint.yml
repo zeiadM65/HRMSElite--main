@@ -1,0 +1,13 @@
+name: OpenAPI Lint
+on: [push, pull_request]
+jobs:
+  spectral:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm i -D @stoplight/spectral-cli
+      - run: npx spectral lint $OPENAPI --ruleset .spectral/rules.yaml
+        env:
+          OPENAPI: ${{ env.OPENAPI_PATH }}
+    env:
+      OPENAPI_PATH: openapi/swagger.yaml

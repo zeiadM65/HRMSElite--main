@@ -1,0 +1,10 @@
+name: sign-artifacts
+on: [workflow_run]
+jobs:
+  sign:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: sigstore/cosign-installer@v3
+      - run: cosign version
+      # مثال: توقيع صورة بعد البناء (تحوّله لخطواتك الفعلية)
+      # - run: cosign sign $IMAGE --yes

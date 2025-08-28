@@ -1,0 +1,233 @@
+/**
+ * @fileoverview Main server entry point for HRMS Elite application
+ * @description Express.js server with security middleware, rate limiting, CSRF protection,
+ * and comprehensive API endpoints for human resource management
+ * @author HRMS Elite Team
+ * @version 1.0.0
+ */
+
+import express from 'express';
+import cookieParser from 'cookie-parser';
+import crypto from 'node:crypto';
+import { createSessionMiddleware } from './utils/session';
+import { assertDatabaseEncryption } from './bootstrap/encryption-guard';
+
+// Import observability middleware
+import { observability } from './middleware/observability';
+import { prometheusMiddleware, metricsHandler, healthCheckHandler, initializeMetrics, metricsAuth, metricsUtils } from './middleware/metrics';
+import { initializeLogShipper } from './utils/log-shipper';
+
+import {
+  securityHeaders,
+  additionalSecurityHeaders,
+  requestValidation,
+  securityMonitoring,
+  createRateLimiter
+} from './middleware/security';
+import { csrfProtection, csrfTokenMiddleware, csrfTokenHandler, csrfErrorHandler } from './middleware/csrf';
+import { isAuthenticated as requireAuth, optionalAuth } from './middleware/auth';
+import { log } from './utils/logger';
+import { env } from './utils/env';
+import { getLocale, t } from './utils/errorMessages';
+import { limiter } from './rateLimiter';
+
+// Import routes
+import aiRoutes from './routes/ai';
+import qualityRoutes from './routes/quality-routes';
+import { cacheControlGuard } from './middleware/cacheControl';
+import { apiVersioningRedirect } from './middleware/apiVersioningRedirect';
+import { csp } from './config/csp';
+import corsMw from './config/cors';
+import { coopCoep } from './security/headers';
+
+// Enforce at-rest encryption before anything touches the DB
+assertDatabaseEncryption();
+
+// Import versioned routes
+import { publicAuthRouter, privateAuthRouter } from './routes/v1/auth-routes';
+import { registerEmployeeRoutes as registerV1EmployeeRoutes } from './routes/v1/employee-routes';
+import { registerDocumentRoutes } from './routes/v1/document-routes';
+
+export const app = express();
+const PORT = env.PORT;
+const vitalsRateLimiter = createRateLimiter('general');
+
+// Trust proxy for rate limiting
+app.set('trust proxy', 1);
+
+// Initialize observability systems
+async function initializeObservability() {
+  try {
+    // Initialize Prometheus metrics
+    initializeMetrics();
+    
+    // Initialize log shipper
+    await initializeLogShipper();
+    
+    log.info('Observability systems initialized successfully', {}, 'SERVER');
+  } catch (error) {
+    log.error('Failed to initialize observability systems', { error }, 'SERVER');
+  }
+}
+
+// Generate per-request CSP nonce and apply CSP
+app.use((req, res, next) => {
+  (res.locals as any).cspNonce = crypto.randomBytes(16).toString('base64');
+  next();
+});
+app.use(csp);
+
+// Apply observability middleware
+app.use(observability.middleware);
+app.use(observability.performance);
+app.use(observability.security);
+app.use(prometheusMiddleware);
+
+// Security middleware (order matters!)
+app.use(securityHeaders);
+app.use(additionalSecurityHeaders);
+app.use(coopCoep);
+app.use(securityMonitoring);
+
+// CORS configuration
+app.use(corsMw);
+
+// Cookie parsing middleware
+app.use(cookieParser());
+
+// Body parsing middleware
+app.use(express.json({ limit: '1mb' }));
+app.use(express.urlencoded({ extended: true, limit: '1mb' }));
+
+// Session configuration with Redis store
+app.use(createSessionMiddleware());
+
+// CSRF protection
+app.use(csrfProtection);
+app.use(csrfTokenMiddleware);
+app.get('/api/csrf-token', csrfTokenHandler);
+
+// Rate limiting
+app.use(limiter);
+
+// Request validation middleware
+app.use(requestValidation);
+// Prevent caching of sensitive responses
+app.use(cacheControlGuard);
+
+// Health check endpoint
+app.get('/health', healthCheckHandler);
+
+// Metrics endpoint for Prometheus
+app.get('/metrics', metricsAuth, metricsHandler);
+app.post('/metrics/vitals', metricsAuth, vitalsRateLimiter, (req, res) => {
+  const { name, value } = req.body;
+  if (typeof name !== 'string' || typeof value !== 'number') {
+    return res.status(400).json({ error: 'Invalid metric' });
+  }
+  metricsUtils.recordWebVital(name, value);
+  res.status(204).end();
+});
+
+// API documentation
+app.get('/api-docs', (req, res) => {
+  res.json({
+    name: 'HRMS Elite API',
+    version: '1.0.0',
+    description: 'Human Resource Management System Elite API',
+    endpoints: {
+      auth: '/api/v1/auth',
+      employees: '/api/v1/employees',
+      documents: '/api/v1/documents',
+      ai: '/api/v1/ai',
+      quality: '/api/v1/quality'
+    },
+    health: '/health',
+    metrics: '/metrics'
+  });
+});
+// API versioning redirect for legacy routes
+app.use(apiVersioningRedirect);
+
+// Versioned API routes
+app.use('/api/v1/auth', publicAuthRouter);
+app.use('/api/v1/auth', requireAuth, privateAuthRouter);
+registerV1EmployeeRoutes(app);
+registerDocumentRoutes(app);
+app.use('/api/v1/ai', requireAuth, aiRoutes);
+app.use('/api/v1/quality', requireAuth, qualityRoutes);
+
+// Optional auth routes (for public endpoints)
+app.use('/api/v1/public', optionalAuth);
+
+// CSRF error handler
+app.use(csrfErrorHandler);
+
+// Error handling middleware with observability
+app.use(observability.errorTracking);
+
+// Global error handler
+app.use((err: any, req: express.Request, res: express.Response, _next: express.NextFunction) => {
+  log.error('Unhandled error', { error: err, requestId: req.id }, 'SERVER');
+  res.status(500).json({ error: 'Internal Server Error', requestId: req.id });
+});
+
+// 404 handler (Express 5: avoid '*', use no-path to match all)
+app.use((req, res) => {
+  const locale = getLocale(req.headers['accept-language']);
+  res.status(404).json({
+    code: 'NOT_FOUND',
+    message: t(locale, 'NOT_FOUND'),
+    locale,
+    requestId: req.id
+  });
+});
+
+// Graceful shutdown
+process.on('SIGTERM', async () => {
+  log.info('SIGTERM received, shutting down gracefully', {}, 'SERVER');
+  
+  // Close log shipper
+  const { closeLogShipper } = await import('./utils/log-shipper');
+  await closeLogShipper();
+  
+  process.exit(0);
+});
+
+process.on('SIGINT', async () => {
+  log.info('SIGINT received, shutting down gracefully', {}, 'SERVER');
+  
+  // Close log shipper
+  const { closeLogShipper } = await import('./utils/log-shipper');
+  await closeLogShipper();
+  
+  process.exit(0);
+});
+
+// Start server
+async function startServer() {
+  try {
+    // Initialize observability systems
+    await initializeObservability();
+    
+    // Start the server
+    app.listen(PORT, () => {
+      log.info(`🚀 HRMS Elite server started on port ${PORT}`, {
+        port: PORT,
+        environment: env.NODE_ENV,
+        nodeVersion: process.version,
+        platform: process.platform,
+        arch: process.arch
+      }, 'SERVER');
+    });
+    
+  } catch (error) {
+    log.error('Failed to start server', { error }, 'SERVER');
+    process.exit(1);
+  }
+}
+
+// Start the server
+startServer();
+
+export default app;

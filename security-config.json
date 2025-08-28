@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY",
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'strict-dynamic'; style-src 'self'; img-src 'self' data: https:; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self';",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "geolocation=(), microphone=(), camera=()"
+  },
+  "rateLimit": {
+    "windowMs": 900000,
+    "max": 100,
+    "message": "Too many requests from this IP, please try again later."
+  },
+  "csrf": {
+    "cookie": {
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "strict"
+    }
+  },
+  "session": {
+    "cookie": {
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "strict",
+      "path": "/",
+      "maxAge": 86400000
+    }
+  }
+}
