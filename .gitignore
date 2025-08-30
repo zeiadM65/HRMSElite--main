@@ -1,6 +1,5 @@
 node_modules
-/dist
-!/dist/.keep
+dist
 .DS_Store
 server/public
 vite.config.ts.*
@@ -13,17 +12,3 @@ vite.config.ts.*
 
 # Downloaded fonts
 public/fonts/*.woff2
-
-# Prevent committing compiled JS alongside TS sources
-# Keep server start cjs files and test utilities
-client/src/**/*.js
-client/src/**/*.jsx
-shared/**/*.js
-server/**/*.js
-!server/**/*.cjs
-
-# TypeScript build info
-*.tsbuildinfo
-
-# Local backups and logs
-backup-console-logs/

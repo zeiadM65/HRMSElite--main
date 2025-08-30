@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import { createServer as createViteServer, createLogger } from 'vite';
 import { type Server } from 'http';
-import { fileURLToPath } from 'url';
+import viteConfig from '../../vite.config';
 import { nanoid } from 'nanoid';
 import { log } from './logger';
 import { getLocale } from './errorMessages';
@@ -31,8 +31,8 @@ export async function setupVite (app: Express, server: Server) {
   };
 
   const vite = await createViteServer({
-    // Let Vite load its own config file to avoid TS importing it here
-    'configFile': true,
+    ...viteConfig,
+    'configFile': false,
     'customLogger': {
       ...viteLogger,
       'error': (msg, options) => {
@@ -50,8 +50,13 @@ export async function setupVite (app: Express, server: Server) {
   app.use('*', async (req, res, next) => {
     const url = req.originalUrl;
     try {
-      const __dirname = path.dirname(fileURLToPath(import.meta.url));
-      const clientTemplate = path.resolve(__dirname, '..', '..', 'client', 'index.html');
+      const clientTemplate = path.resolve(
+        import.meta.dirname,
+        '..',
+        '..',
+        'client',
+        'index.html'
+      );
       let template = await fs.promises.readFile(clientTemplate, 'utf-8');
       template = template.replace(
         'src="/src/main.tsx"',
@@ -78,8 +83,7 @@ export async function setupVite (app: Express, server: Server) {
 }
 
 export function serveStatic (app: Express) {
-  const __dirname = path.dirname(fileURLToPath(import.meta.url));
-  const distPath = path.resolve(__dirname, '..', '..', 'dist');
+  const distPath = path.resolve(import.meta.dirname, '..', '..', 'dist');
 
   if (!fs.existsSync(distPath)) {
     throw new Error(

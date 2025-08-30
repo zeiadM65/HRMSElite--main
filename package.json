@@ -9,16 +9,15 @@
   },
   "packageManager": "npm@11.5.2",
   "scripts": {
-    "dev": "npx cross-env NODE_ENV=development tsx -r tsconfig-paths/register server/index.ts",
-    "dev:client": "npx cross-env NODE_ENV=development vite",
-    "dev:full": "npx concurrently \"npm run dev\" \"npm run dev:client\"",
+    "dev": "cross-env NODE_ENV=development tsx server/index.ts",
+    "dev:client": "cross-env NODE_ENV=development vite",
+    "dev:full": "concurrently \"npm run dev\" \"npm run dev:client\"",
     "dev:electron": "concurrently \"npm run dev:client\" \"wait-on http://localhost:5173 && cd electron && npm run dev\"",
-    "build:client": "vite build",
-    "build": "npm run build:server && npm run build:client",
+    "build": "tsc -b && vite build",
     "build:electron": "npm run build && cd electron && npm run build",
     "build:analyze": "npm run build && node scripts/bundle-analyzer.cjs",
     "build:analyze-bundle": "npm run build && node scripts/performance-analyzer.js --bundle-analyzer",
-    "start": "cross-env NODE_ENV=production node dist/server/index.js",
+    "start": "cross-env NODE_ENV=production node dist/index.js",
     "start:electron": "cd electron && npm run start",
     "dist:electron": "npm run build:electron && cd electron && npm run dist",
     "check": "tsc",
@@ -131,7 +130,7 @@
     "lint:fix": "npx -y eslint@8 . --ext .ts,.tsx --fix --config .eslintrc.cjs",
     "verify-lock": "npm ci --ignore-scripts --fund=false --audit=false",
     "build:server": "tsc -p tsconfig.server.json",
-    "start:prod": "cross-env NODE_ENV=production node dist/server/index.js"
+    "start:prod": "cross-env NODE_ENV=production node dist/index.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "0.60.0",
@@ -252,8 +251,8 @@
     "zustand": "5.0.8"
   },
   "devDependencies": {
-    "@babel/parser": "^7.25.0",
-    "@babel/traverse": "^7.25.0",
+    "@babel/parser": "7.28.3",
+    "@babel/traverse": "7.28.3",
     "@replit/vite-plugin-cartographer": "0.3.0",
     "@replit/vite-plugin-runtime-error-modal": "0.0.3",
     "@tailwindcss/typography": "0.5.16",
