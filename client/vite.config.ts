@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 // Image optimization
 import viteImagemin from 'vite-plugin-imagemin';
+// Security: Prevents source map exposure in production
 import sri from 'vite-plugin-sri';
 import { execSync } from 'child_process';
 import path from 'path';
@@ -14,16 +15,15 @@ function secureSourceMaps() {
     apply: 'build',
     async closeBundle() {
       const distDir = path.resolve(import.meta.dirname, 'dist');
-      const mapsDir = path.join(distDir, 'maps');
-      await fs.mkdir(mapsDir, { recursive: true });
-
+      
+      // Remove any source map files that might have been created
       const mapFiles = await glob('**/*.map', { cwd: distDir });
       for (const file of mapFiles) {
-        const from = path.join(distDir, file);
-        const to = path.join(mapsDir, path.basename(file));
-        await fs.rename(from, to);
+        const filePath = path.join(distDir, file);
+        await fs.unlink(filePath);
       }
 
+      // Remove sourceMappingURL comments from all bundle files
       const bundleFiles = await glob('**/*.{js,css}', { cwd: distDir });
       for (const file of bundleFiles) {
         const filePath = path.join(distDir, file);
@@ -41,6 +41,11 @@ function secureSourceMaps() {
 const buildHash = execSync('git rev-parse --short HEAD').toString().trim();
 
 export default defineConfig({
+  resolve: {
+    alias: {
+      '@': path.resolve(import.meta.dirname, 'src'),
+    },
+  },
   define: {
     __BUILD_HASH__: JSON.stringify(buildHash),
   },
@@ -73,9 +78,10 @@ export default defineConfig({
             return 'vendor';
           }
         },
+        // Ensure no source maps are generated
+        sourcemap: false,
       },
     },
   },
 });
-
 

@@ -22,7 +22,7 @@ const httpRequestsTotal = new Counter({
 const httpRequestDuration = new Histogram({
   name: 'http_request_duration_seconds',
   help: 'HTTP request duration in seconds',
-  labelNames: ['route', 'status'],
+  labelNames: ['method', 'endpoint'],
   buckets: [0.1, 0.3, 0.5, 0.7, 1, 3, 5, 7, 10]
 });
 
@@ -46,7 +46,7 @@ const httpResponseSize = new Histogram({
 const httpRequestsErrorsTotal = new Counter({
   name: 'http_requests_errors_total',
   help: 'Total number of HTTP requests that resulted in errors',
-  labelNames: ['method', 'route', 'status']
+  labelNames: ['method', 'endpoint', 'status']
 });
 
 const uploadsTotal = new Counter({
@@ -228,12 +228,12 @@ export const metricsUtils = {
     httpRequestsTotal.inc({ method, endpoint, status: status.toString(), version });
   },
 
-  incrementHttpRequestError: (method: string, route: string, status: number) => {
-    httpRequestsErrorsTotal.inc({ method, route, status: status.toString() });
+  incrementHttpRequestError: (method: string, endpoint: string, status: number) => {
+    httpRequestsErrorsTotal.inc({ method, endpoint, status: status.toString() });
   },
 
-  recordHttpDuration: (route: string, status: number, duration: number) => {
-    httpRequestDuration.observe({ route, status: status.toString() }, duration);
+  recordHttpDuration: (method: string, endpoint: string, duration: number) => {
+    httpRequestDuration.observe({ method, endpoint }, duration);
   },
 
   recordHttpRequestSize: (method: string, endpoint: string, size: number) => {
@@ -368,11 +368,11 @@ export const prometheusMiddleware = (req: Request, res: Response, next: NextFunc
     const endTime = process.hrtime.bigint();
     const duration = Number(endTime - startTime) / 1000000000; // Convert to seconds
     const responseSize = Buffer.byteLength(data, 'utf8');
-    const route = req.route?.path || req.path;
+    const endpoint = req.route?.path || req.path;
 
     // Record metrics
     metricsUtils.incrementHttpRequest(req.method, req.url, res.statusCode);
-    metricsUtils.recordHttpDuration(route, res.statusCode, duration);
+    metricsUtils.recordHttpDuration(req.method, endpoint, duration);
     metricsUtils.recordHttpResponseSize(req.method, req.url, res.statusCode, responseSize);
 
     // Record errors
@@ -383,7 +383,7 @@ export const prometheusMiddleware = (req: Request, res: Response, next: NextFunc
     }
 
     if (res.statusCode >= 400) {
-      metricsUtils.incrementHttpRequestError(req.method, route, res.statusCode);
+      metricsUtils.incrementHttpRequestError(req.method, req.url, res.statusCode);
     }
 
     return originalSend.call(this, data);
