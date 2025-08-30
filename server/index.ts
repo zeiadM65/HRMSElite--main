@@ -13,8 +13,8 @@ import { createSessionMiddleware } from './utils/session';
 import { assertDatabaseEncryption } from './bootstrap/encryption-guard';
 
 // Import observability middleware
-import { observability } from './middleware/observability-simple';
-import { metricsHandler, healthCheckHandler, initializeMetrics, metricsAuth, metricsUtils } from './middleware/metrics';
+import { observability } from './middleware/observability';
+import { prometheusMiddleware, metricsHandler, healthCheckHandler, initializeMetrics, metricsAuth, metricsUtils } from './middleware/metrics';
 import { initializeLogShipper } from './utils/log-shipper';
 
 import {
@@ -29,7 +29,7 @@ import { isAuthenticated as requireAuth, optionalAuth } from './middleware/auth'
 import { log } from './utils/logger';
 import { env } from './utils/env';
 import { getLocale, t } from './utils/errorMessages';
-import { defaultLimiter } from './config/rate-limiting';
+import { limiter } from './rateLimiter';
 
 // Import routes
 import aiRoutes from './routes/ai';
@@ -81,6 +81,7 @@ app.use(csp);
 app.use(observability.middleware);
 app.use(observability.performance);
 app.use(observability.security);
+app.use(prometheusMiddleware);
 
 // Security middleware (order matters!)
 app.use(securityHeaders);
@@ -107,7 +108,7 @@ app.use(csrfTokenMiddleware);
 app.get('/api/csrf-token', csrfTokenHandler);
 
 // Rate limiting
-app.use(defaultLimiter);
+app.use(limiter);
 
 // Request validation middleware
 app.use(requestValidation);

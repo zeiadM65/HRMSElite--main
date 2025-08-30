@@ -7,30 +7,19 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": false,
-    "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "types": [],
+    "types": [
+      "vite/client"
+    ],
     "baseUrl": ".",
     "paths": {
-      "@shared/*": ["shared/*"],
-      "@/*": ["client/src/*"],
-      "@components/*": ["client/src/components/*"],
-      "@pages/*": ["client/src/pages/*"],
-      "@hooks/*": ["client/src/hooks/*"],
-      "@stores/*": ["client/src/stores/*"],
-      "@services/*": ["client/src/services/*"],
-      "@lib/*": ["client/src/lib/*"],
-      "@types/*": ["client/src/types/*"],
-      "@tests/*": ["client/tests/*"],
-      "@ui/*": ["client/src/components/ui/*"]
+      "@shared/*": [
+        "server/shared/*"
+      ]
     }
   },
   "include": [
     "client/src",
     "server",
     "shared"
-  ],
-  "exclude": [
-    "client/coverage/**",
-    "**/*.d.ts.map"
   ]
 }
